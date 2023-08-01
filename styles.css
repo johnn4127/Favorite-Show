@@ -52,6 +52,8 @@ h1{
 .overall{
     background-size: auto;
     background-color: rgb(98, 149, 205);
+    height: 100%;
+    width: 100%;
 }
 .iframes{
     width: 100%;
