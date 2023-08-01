@@ -48,3 +48,15 @@ h1{
     background-size: auto;
     background-color: rgb(98, 149, 205);
 }
+.iframes{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.casters{
+    font-size: 28px;
+    font-weight: bold;
+}
+.list-group{
+    font-size: 21px;
+}
