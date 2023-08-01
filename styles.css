@@ -1,0 +1,41 @@
+.boxes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border-color: brown;
+    border-style: dotted;
+}
+.imgone{
+    width: auto;
+    height: 200px;
+}
+.card14{
+    text-align: center;
+}
+.summary{
+    text-align: center;
+}
+.allcards{
+    display: flex;
+    justify-content: center;
+}
+.card1{
+    margin: 10px;
+}
+.card2{
+    margin: 10px;
+}
+.card3{
+    margin: 10px;
+}
+body{
+height: 100%;
+width: 100%;
+}
+.carousel-inner{
+    height: 100%;
+    width: 100%;
+}
+.imgtwo{
+    height: auto;
+    width: 100%;
+}
