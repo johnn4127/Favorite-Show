@@ -1,8 +1,8 @@
 .boxes{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    border-color: brown;
-    border-style: dotted;
+    border-color: black;
+    border-style:solid;
 }
 .imgone{
     width: auto;
@@ -30,6 +30,7 @@
 body{
 height: 100%;
 width: 100%;
+
 }
 .carousel-inner{
     height: 100%;
@@ -38,4 +39,12 @@ width: 100%;
 .imgtwo{
     height: auto;
     width: 100%;
+}
+h1{
+    font-style: oblique;
+    text-decoration: underline;
+}
+.overall{
+    background-size: auto;
+    background-color: rgb(98, 149, 205);
 }
